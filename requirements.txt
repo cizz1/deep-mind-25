@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+litellm
+google-genai
+requests
+python-dotenv
+streamlit
