@@ -1,6 +1,6 @@
 
 ### **README.md**  
-```markdown
+```markdown ```
 # Multimodal Image Analysis with CrewAI and Gemini Vision  
 
 ## Overview  
