@@ -117,7 +117,7 @@ These enhancements will improve **accuracy, flexibility, and real-world applicab
 This project demonstrates **CrewAI’s capability to integrate multimodal AI models** effectively. By incorporating **Google Gemini Vision**, it provides a **structured approach** to image analysis, paving the way for more sophisticated applications in **computer vision, AI-driven insights, and automated content understanding**.  
 
 This PoC serves as a **baseline for further research and development**, extending multimodal AI’s impact across various industries.  
-```  
+
 
 ---
 
