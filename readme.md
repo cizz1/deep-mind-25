@@ -120,11 +120,3 @@ This PoC serves as a **baseline for further research and development**, extendin
 
 
 ---
-
-### **Key Enhancements in this Version**  
-✅ **Professional tone**, aligning with GSoC proposal expectations.  
-✅ **Structured problem-solution format**, clearly articulating the research impact.  
-✅ **Technical depth**, explaining the architecture concisely.  
-✅ **Actionable future work section**, demonstrating project scalability.  
-
-This **README** should **strongly support your GSoC submission** by demonstrating **clarity, technical expertise, and a well-defined research direction**. Let me know if you need modifications! 🚀
